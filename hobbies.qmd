@@ -1,0 +1,36 @@
+---
+title: "Hobbies"
+image: IMG_5221.jpg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+---
+
+
+## Running
+I started running as a way to force myself into doing something that
+I never enjoyed. I was going through a painful divorce at the time,
+I figured physical pain would distract me from the emotional turmoil. It did.
+I like running because you can do it anywhere. More recently I've tried running 
+on trails which is a lot of fun for me.
+
+## Swimming 
+I started swimming as a way to do high-intensity cardiovascular exercise
+with low impact on my joints. I sustained injuries while running and swimming provides
+a nice way for me to get the rush I got while running. I enjoy swimming because I can 
+spend an hour and a half in the water and it feels as if time has stood still. I like
+the feeling of being weightless, and not having to use my senses the way I have to on
+land. Swimming makes me feel free, and that is exactly why I like it.
+
+## Biking
+When a friend of mine found out that I was swimming and running as frequently
+as I was he talked me into buying a bike and doing a sprint triathlon with him. I had a bike
+when I was a kid and any time I get on a bike I feel like a kid again.
+I don't bike as much as I swim or run, but I really enjoy doing it.
+
+
+Looking at my hobbies, I suppose that they could be summed up in just 1 : exercising.
+I don't feel as if I'm "good" at any of those activities, I just enjoy them. It's been
+nice to see my personal progress over the years in each of them. I'll never be a professional 
+athlete, but I'll always be trying to beat my previous times/distances/speeds. That's fun for me.

@@ -1,0 +1,20 @@
+---
+title: "Wishes"
+---
+
+$$
+y = \frac{log_e(\frac{x}{m}-sa)}{r^2}
+$$
+$$
+yr^2 = log_e(\frac{x}{m}-sa)
+$$
+$$
+e^{yr^2} = \frac{x}{m}-sa
+$$
+$$
+me^{yr^2} = x-msa
+$$
+$$
+me^{rry}= x-mas
+$$
+

@@ -1,0 +1,14 @@
+---
+title: "Favorites"
+editor: visual
+---
+
+## Favorite things:
+
+-   Running
+
+-   Swimming
+
+-   
+
+    ## Biking

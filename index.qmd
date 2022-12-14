@@ -1,0 +1,39 @@
+---
+title: "Kevin Hawekotte"
+image: IMG_2972.jpg
+resources: Quarto_Resume.pdf
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+  - text: Email
+    icon: envelope
+    href: mailto:kevin.hawekotte@ucdenver.edu
+  - text: Github
+    icon: github
+    href: https://github.com/kevinhawekotte
+  - text: Resume
+    icon: file-text
+    href: Quarto_Resume.pdf
+  - text: Twitter
+    icon: twitter
+    href: https://twitter.com/kevinhawekotte
+   
+  id: ppc
+   
+---
+
+:::{#ppc}
+## Skills:
+  - R (beginner)
+  - Python (beginner)
+  - C++ (beginner)
+  - SQL (beginner)
+  - ReactJS & NodeJS (beginner)
+  
+## Education:
+  - Rockhurst High School (diploma)
+  - Red Rocks Community College (associate's degree)
+  - University of Colorado-Denver (pending)
+:::

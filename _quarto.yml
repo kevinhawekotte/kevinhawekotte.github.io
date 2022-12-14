@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kevin Hawekotte"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - hobbies.qmd
+      - fun.qmd
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+
+
