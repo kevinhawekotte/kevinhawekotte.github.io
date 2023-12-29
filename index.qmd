@@ -26,14 +26,22 @@ about:
 
 :::{#ppc}
 ## Skills:
-  - R (beginner)
-  - Python (beginner)
-  - C++ (beginner)
-  - SQL (beginner)
-  - ReactJS & NodeJS (beginner)
-  
+  - C++
+  - MATLAB 
+  - Python
+  - R
+  - ReactJS & NodeJS
+  - SQL
+
 ## Education:
-  - Rockhurst High School (diploma)
-  - Red Rocks Community College (associate's degree)
-  - University of Colorado-Denver (pending)
+  - Rockhurst High School (Diploma)
+  - Red Rocks Community College (Associate's degree)
+  - University of Colorado-Denver (Bachelor's of Science, Computer Science)
+
+## Awards:
+  - Eagle Scout
+
+## Certifications:
+  - CompTIA Security+ CE
+
 :::
